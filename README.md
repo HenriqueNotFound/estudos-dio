@@ -1,6 +1,6 @@
-#Estudos DIO!
+# Estudos DIO!
 
-###Aqui vou deixar registrado minha progressão nos estudos dentro da plataforma da DIO.
+### Aqui vou deixar registrado minha progressão nos estudos dentro da plataforma da DIO.
 
 Introdução a programação e pensamento computacional:
 
