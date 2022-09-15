@@ -1,6 +1,6 @@
-# Estudos DIO!
+## Estudos DIO!
 
-### Aqui vou deixar registrado minha progressão nos estudos dentro da plataforma da DIO.
+#### Aqui vou deixar registrado minha progressão nos estudos dentro da plataforma da DIO.
 
 Introdução a programação e pensamento computacional:
 
@@ -14,4 +14,17 @@ Introdução a programação e pensamento computacional:
 
 Introdução ao Git e GitHub:
 
-°
+° Aprendi a usar o Git, commitando meus arquivos, criando pastas, navegando através do terminal, enfrentando problemas de versões do código e conseguindo resolvê-los.
+° Consegui entender como funciona, de forma básica, o GitHub. 
+
+
+
+HTML & CSS:
+
+° Fiquei encantado como é interessante desenvolver páginas web usando essas tecnologias. Aprendi demais, e continuo colocando em prática, buscando sempre aprender mais ainda!
+
+
+
+JavaScript:
+
+° A professora além de ter uma ótima didática, trouxe um conteúdo muito rico e bem objetivo. Gostei demais, e ainda pude acelerar o processo por já ter base com outra linguagem de programação. 
