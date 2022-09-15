@@ -1,6 +1,6 @@
 ## Estudos DIO!
 
-#### Aqui vou deixar registrado minha progressão nos estudos dentro da plataforma da DIO.
+#### Minha progressão nos estudos dentro da plataforma da DIO dentro do BootCamp do Santander 2022.
 
 Introdução a programação e pensamento computacional:
 
